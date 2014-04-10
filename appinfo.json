@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "43134cac-9024-4e50-bc10-bf6529677058",
+    "appKeys": {},
+    "longName": "Peddule",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Peddule",
+    "companyName": "anVlad11",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
